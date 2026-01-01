@@ -1,0 +1,10 @@
+{
+    "name": "Build and Deploy to Pages with Jekyll",
+    "description": "Build and deploy to GitHub Pages with the latest version of Jekyll.",
+    "iconName": "octicon inbox",
+    "categories": [
+        "deployment",
+        "Pages",
+        "Jekyll"
+    ]
+}
