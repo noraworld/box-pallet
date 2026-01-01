@@ -1,9 +1,0 @@
-{
-    "name": "Build and Deploy to Pages",
-    "description": "Build and deploy to GitHub Pages.",
-    "iconName": "octicon inbox",
-    "categories": [
-        "deployment",
-        "Pages"
-    ]
-}
